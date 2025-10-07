@@ -1,2 +1,2 @@
 # ISPC
- Trabajos de progración
+ Trabajos de programación
